@@ -1,0 +1,16 @@
+# STM32 build output directories
+Debug/
+Release/
+
+# Temporary and object files
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+*.lst
+
+# IDE settings
+.settings/
+*.launch
